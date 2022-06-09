@@ -1,0 +1,180 @@
+00:00:00.004562 main     VirtualBox COM Server 6.1.16 r140961 win.amd64 (Oct 16 2020 16:33:17) release log
+00:00:00.004989 main     Log opened 2021-01-12T12:30:24.895548900Z
+00:00:00.004991 main     Build Type: release
+00:00:00.004999 main     OS Product: Windows 10
+00:00:00.005001 main     OS Release: 10.0.18363
+00:00:00.005002 main     OS Service Pack: 
+00:00:00.024328 main     DMI Product Name: TUF Gaming FA506II_FA506II
+00:00:00.034572 main     DMI Product Version: 1.0
+00:00:00.034593 main     Firmware type: UEFI
+00:00:00.034823 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.035846 main     Host RAM: 7599MB (7.4GB) total, 3749MB (3.6GB) available
+00:00:00.036075 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.036076 main     Process ID: 5416
+00:00:00.036077 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.091281          VirtualBox: object creation starts
+00:00:00.092433          Home directory: 'C:\Users\Asus\.VirtualBox'
+00:00:00.092730          Installed Drivers:
+00:00:00.097386            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.16.40961)
+00:00:00.098153            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.16.40961)
+00:00:00.098884            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.16.40961)
+00:00:00.099772            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.16.40961)
+00:00:00.103146          Loading settings file "C:\Users\Asus\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.108185          usbLibGetDevices: Starting USB device enumeration
+00:00:00.114853          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&11614a76&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:00.114959          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:00:00.127938          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.129345          USB: Unknown USB device detected (idVendor: 0x04ca, idProduct: 0x4005)
+00:00:00.129470          USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x56a2)
+00:00:00.250806          HostDnsMonitor: initializing
+00:00:00.258292          HostDnsMonitor: updating information
+00:00:00.258867          HostDnsMonitor: old information
+00:00:00.258868            no server entries
+00:00:00.258869            no domain set
+00:00:00.258869            no search string entries
+00:00:00.258870          HostDnsMonitor: new information
+00:00:00.258870            server 1: 192.168.43.1
+00:00:00.258871            no domain set
+00:00:00.258871            no search string entries
+00:00:00.298053          VD: VDInit finished with VINF_SUCCESS
+00:00:00.303314          Loading settings file "E:\Ubuntu20\Ubuntu20.vbox" with version "1.16-windows"
+00:00:00.307224          VirtualBox: object created
+00:00:02.375779          Saving settings file "C:\Users\Asus\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.389275          Saving settings file "C:\Users\Asus\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:04.155307          Launched VM: 60467328 pid: 15800 (0x3db8) frontend: GUI/Qt name: Ubuntu20
+00:00:07.364814          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:07.562393          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:02:08.543672 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:02:08.551832 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&11614a76&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:02:08.552265 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:02:08.552988 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:09:25.983902          Saving settings file "C:\Users\Asus\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:26.000239          Saving settings file "E:\Ubuntu20\Ubuntu20.vbox" with version "1.16-windows"
+00:14:21.599309 dns-monitor HostDnsMonitor: updating information
+00:14:21.599333 dns-monitor HostDnsMonitor: unchanged
+00:21:09.594579          Saving settings file "E:\Ubuntu20\Ubuntu20.vbox" with version "1.16-windows"
+00:21:09.637500          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:21:16.633964          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:21:16.938077          Saving settings file "E:\Ubuntu20\Ubuntu20.vbox" with version "1.16-windows"
+00:21:18.641556          Saving settings file "E:\Ubuntu20\Ubuntu20.vbox" with version "1.16-windows"
+00:21:25.718046          Saving settings file "E:\Ubuntu20\Ubuntu20.vbox" with version "1.16-windows"
+00:21:27.300776          Saving settings file "E:\Ubuntu20\Ubuntu20.vbox" with version "1.16-windows"
+00:21:27.356285          Saving settings file "E:\Ubuntu20\Ubuntu20.vbox" with version "1.16-windows"
+00:21:27.386875          Saving settings file "E:\Ubuntu20\Ubuntu20.vbox" with version "1.16-windows"
+00:21:29.333419          Saving settings file "E:\Ubuntu20\Ubuntu20.vbox" with version "1.16-windows"
+00:21:29.420251          Saving settings file "E:\Ubuntu20\Ubuntu20.vbox" with version "1.16-windows"
+00:21:29.486100          Saving settings file "E:\Ubuntu20\Ubuntu20.vbox" with version "1.16-windows"
+00:35:53.210207 dns-monitor HostDnsMonitor: updating information
+00:35:53.210342 dns-monitor HostDnsMonitor: unchanged
+00:47:53.399070 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:47:53.402762 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:47:53.402985 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:48:06.419568 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:48:06.419851 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&11614a76&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:48:06.420038 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:48:06.427153 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:48:06.427336 USBPROXY USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x56a2)
+00:49:04.903511 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:49:04.908164 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:49:04.915061 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:49:06.233770 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:49:06.236985 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&11614a76&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:49:06.262110 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:49:06.262203 USBPROXY USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x56a2)
+00:49:23.487551 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:49:23.491039 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:49:23.499168 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:49:23.499260 USBPROXY USB: Unknown USB device detected (idVendor: 0x04ca, idProduct: 0x4005)
+00:49:25.122758 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:49:25.126532 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:49:25.134108 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:49:28.708038 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:49:28.714848 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:49:28.723184 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:49:30.724132 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:49:30.727756 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:49:30.736030 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:49:33.982416 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:49:33.989198 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:49:33.997207 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:49:37.139714 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:49:37.143533 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&11614a76&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:49:37.143752 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:49:37.152054 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:49:37.152131 USBPROXY USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x56a2)
+00:49:41.627748 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:49:41.631158 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:49:41.638116 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:49:45.676400 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:49:45.680067 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:49:45.688219 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:49:47.850779 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:49:47.857290 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:49:47.865207 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:49:50.675308 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:49:50.684606 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:49:50.692133 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:49:51.244551 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:49:51.248295 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&11614a76&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:49:51.248515 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:49:51.256186 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:49:51.256258 USBPROXY USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x56a2)
+00:49:58.059987 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:49:58.063679 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:49:58.072102 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:50:00.061620 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:50:00.068367 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:50:00.075067 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:50:03.753005 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:50:03.761975 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:50:03.769162 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:50:04.362794 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:50:04.366556 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&11614a76&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:50:04.366749 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:50:04.374208 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:50:04.374268 USBPROXY USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x56a2)
+00:50:07.435897 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:50:07.440117 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:50:07.448205 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:50:08.867108 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:50:08.874184 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:50:08.881127 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:50:12.309410 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:50:12.313003 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:50:12.321069 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:50:24.198399 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:50:24.205128 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:50:24.213134 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:50:28.389157 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:50:28.392924 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&11614a76&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:50:28.393175 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:50:28.401183 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:50:28.401256 USBPROXY USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x56a2)
+00:50:41.493722 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:50:41.500961 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:50:41.509136 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:56:41.517272 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:56:41.520961 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:56:41.528390 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+01:05:53.096726 dns-monitor HostDnsMonitor: updating information
+01:05:53.096764 dns-monitor HostDnsMonitor: unchanged
+01:33:33.127205 dns-monitor HostDnsMonitor: updating information
+01:33:33.127275 dns-monitor HostDnsMonitor: unchanged
+01:51:40.087384          Saving settings file "E:\Ubuntu20\Ubuntu20.vbox" with version "1.16-windows"
+02:01:28.153326 dns-monitor HostDnsMonitor: updating information
+02:01:28.153404 dns-monitor HostDnsMonitor: unchanged
+02:29:03.196250 dns-monitor HostDnsMonitor: updating information
+02:29:03.196325 dns-monitor HostDnsMonitor: unchanged
+02:56:27.227640 dns-monitor HostDnsMonitor: updating information
+02:56:27.227732 dns-monitor HostDnsMonitor: unchanged
+03:10:33.594673 USBPROXY usbLibGetDevices: Starting USB device enumeration
+03:10:33.595825 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&11614a76&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+03:10:33.596382 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&3462ecd3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+03:10:33.604022 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+03:10:33.604367 USBPROXY USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x56a2)
+03:24:13.261708 dns-monitor HostDnsMonitor: updating information
+03:24:13.261732 dns-monitor HostDnsMonitor: unchanged
+03:50:43.304995 dns-monitor HostDnsMonitor: updating information
+03:50:43.305069 dns-monitor HostDnsMonitor: unchanged
+09:12:50.159218          Saving settings file "E:\Ubuntu20\Ubuntu20.vbox" with version "1.16-windows"
+09:12:50.173968          Saving settings file "E:\Ubuntu20\Ubuntu20.vbox" with version "1.16-windows"

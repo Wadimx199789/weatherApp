@@ -1,0 +1,18 @@
+00:00:02.484752 VirtualBox GUI VM Selector Window 6.1.16 r140961 win.amd64 (Oct 16 2020 16:33:17) release log
+00:00:02.484755 Log opened 2021-05-22T18:33:09.821636300Z
+00:00:02.484756 Build Type: release
+00:00:02.484759 OS Product: Windows 10
+00:00:02.484760 OS Release: 10.0.19042
+00:00:02.484761 OS Service Pack: 
+00:00:02.546600 DMI Product Name: ASUS TUF Gaming A15 FA506II_FA506II
+00:00:02.553866 DMI Product Version: 1.0
+00:00:02.553898 Firmware type: UEFI
+00:00:02.554549 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:02.554590 Host RAM: 7599MB (7.4GB) total, 1742MB available
+00:00:02.554598 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:02.554600 Process ID: 17128
+00:00:02.554601 Package type: WINDOWS_64BITS_GENERIC
+00:00:02.554975 Qt version: 5.6.2
+00:00:02.597304 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:03.430285 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:03.480590 refreshCertificates/#3: Found 1/63 SSL certs we/you trust (previously 1/61).
