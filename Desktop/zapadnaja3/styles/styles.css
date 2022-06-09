@@ -1,0 +1,137 @@
+:root {
+  --base-font:"Idealist Sans Light SC",sans-serif;
+  --base-weight:300;
+  --base-color:#ffffff;
+  --base-size:20px;
+}
+
+.body {
+  font-family: var(--base-font);
+  font-weight: var(--base-weight);
+  color: var(--base-color);
+  font-size: var(--base-size);
+}
+
+.body .header {
+  background: black;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.body .header__container {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: auto 1fr auto;
+      grid-template-columns: auto 1fr auto;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.body .header__center {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.body .nav__list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.body .nav__item:not(:last-child) {
+  margin-right: 16px;
+}
+
+.body .nav__link {
+  color: #fff;
+  -webkit-transition: color 0.3s ease-in-out;
+  transition: color 0.3s ease-in-out;
+}
+
+.body .nav__link:focus {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
+.body .nav__link:hover {
+  color: var(--color-primary);
+}
+
+.body .nav__link:active {
+  color: var(--color-active);
+}
+
+.body .search {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.body .search__icon {
+  width: 30px;
+  height: 30px;
+  background: url(../assets/img/svg/search.svg) no-repeat center center;
+  background-size: content;
+  cursor: pointer;
+}
+
+.body .search__form {
+  background: none;
+  border: none;
+  width: 3.4rem;
+  -webkit-transition: width 0.3s;
+  transition: width 0.3s;
+  padding: 0.2rem 0.5rem;
+  border-radius: 5px;
+}
+
+.body .search__form::-webkit-input-placeholder {
+  color: white;
+  opacity: 1;
+}
+
+.body .search__form:-ms-input-placeholder {
+  color: white;
+  opacity: 1;
+}
+
+.body .search__form::-ms-input-placeholder {
+  color: white;
+  opacity: 1;
+}
+
+.body .search__form::placeholder {
+  color: white;
+  opacity: 1;
+}
+
+.body .search__form:focus {
+  border: none;
+  outline: none;
+  width: 10rem;
+  background: white;
+}
+
+.body .search__form:focus::-webkit-input-placeholder {
+  opacity: 1;
+}
+
+.body .search__form:focus:-ms-input-placeholder {
+  opacity: 1;
+}
+
+.body .search__form:focus::-ms-input-placeholder {
+  opacity: 1;
+}
+
+.body .search__form:focus::placeholder {
+  opacity: 1;
+}
+/*# sourceMappingURL=styles.css.map */
